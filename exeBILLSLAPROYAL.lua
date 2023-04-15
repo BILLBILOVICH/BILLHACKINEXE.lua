@@ -285,11 +285,7 @@ Section:NewButton("ESP","adwad",function(bool)
  
     createFlex() --// Does exactly that :)
 end)
-Section:NewButton("just-a-bot#1136","sdfsdf",function()
- 
-   setclipboard("just-a-bot#1136")
- 
-end)
+
  
     local antiLava = Instance.new("Part", workspace)
         antiLava.Name = "antiLava"
